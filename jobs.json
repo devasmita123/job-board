@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "company": "TechSoft",
+    "title": "Frontend Developer",
+    "description": "Work with HTML, CSS, and JS frameworks.",
+    "vacancies": 5,
+    "applyLink": "https://example.com/apply/frontend",
+    "lastDate": "2025-04-20T23:59:59"
+  },
+  {
+    "id": 2,
+    "company": "DataCorp",
+    "title": "Data Analyst",
+    "description": "Analyze data trends and generate reports.",
+    "vacancies": 3,
+    "applyLink": "https://example.com/apply/analyst",
+    "lastDate": "2025-04-17T23:59:59"
+  },
+  {
+    "id": 3,
+    "company": "Cloudify",
+    "title": "DevOps Engineer",
+    "description": "Automate infrastructure and CI/CD.",
+    "vacancies": 2,
+    "applyLink": "https://example.com/apply/devops",
+    "lastDate": "2025-04-15T23:59:59"
+  }
+]
